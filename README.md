@@ -1,0 +1,2 @@
+# README
+My GitHub policy
